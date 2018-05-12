@@ -1,0 +1,29 @@
+_repo: From-Jungle-to-JavaThe-Trivial-Impressions-of-a-Short-Excursion-to-Netherlands-India_27749
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keyser, Arthur Louis
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '32885'
+    url: http://www.gutenberg.org/2009/agents/32885
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Java (Indonesia) -- Social life and customs'
+title: 'From Jungle to Java
+
+  The Trivial Impressions of a Short Excursion to Netherlands India'
+url: http://www.gutenberg.org/ebooks/27749
